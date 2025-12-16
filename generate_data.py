@@ -18,3 +18,4 @@ for i in range(1,5001):
 df=pd.DataFrame(rows,columns=["sale_id","product_id","region_id","sale_date","quantity","discount","total_amount"])
 df.to_csv("../data/sales_data.csv",index=False)
 print("5000-row dataset generated.")
+Print("Hello")
