@@ -25,6 +25,8 @@ Usage
 Dashboard Preview
 (Add your Tableau screenshots or Public link here)
 
----
+<img width="998" height="718" alt="Sales By Region" src="https://github.com/user-attachments/assets/371b8984-4fde-49d1-9a80-f4d00f6bebad" />
+
 Automated with SQL + Python | Visualized in Tableau | © Mahesh Kumar Regodu
+
 
